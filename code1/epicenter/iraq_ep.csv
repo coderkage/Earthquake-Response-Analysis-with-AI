@@ -1,0 +1,18 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2017-11-14T04:28:15.420Z,33.7343,47.5674,10,4.5,mb,,116,2.057,0.76,us,us2000bn3l,2018-02-06T02:45:33.040Z,"22 km N of K?hdasht, Iran",earthquake,6.7,1.9,0.11,24,reviewed,us,us
+2017-11-14T01:08:46.630Z,34.4473,45.7997,10,4.5,mb,,87,0.671,0.7,us,us2000bn1y,2022-08-07T21:11:08.586Z,"5 km WSW of Sarpol-e Z?ah?b, Iran",earthquake,7.8,1.9,0.068,64,reviewed,us,us
+2017-11-13T15:33:04.820Z,33.654,47.7817,10,4.6,mb,,118,2.743,0.86,us,us2000bsyz,2018-02-06T02:45:32.040Z,"20 km NE of K?hdasht, Iran",earthquake,9.7,1.9,0.109,25,reviewed,us,us
+2017-11-13T15:00:44.170Z,34.3179,45.5856,10,4.7,mb,,103,0.763,0.68,us,us2000bmmh,2018-02-06T02:45:32.040Z,"30 km WSW of Sarpol-e Z?ah?b, Iran",earthquake,5.1,1.8,0.056,96,reviewed,us,us
+2017-11-13T14:01:48.780Z,34.9133,45.8073,10,4.5,mb,,242,0.768,0.8,us,us2000bsyy,2018-02-06T02:45:31.040Z,"33 km SSW of ?alabja, Iraq",earthquake,6.4,1.9,0.116,22,reviewed,us,us
+2017-11-13T13:12:36.660Z,34.3018,45.7469,10,4.7,mb,,101,0.66,0.58,us,us2000bmlf,2022-08-07T21:07:56.106Z,"20 km SSW of Sarpol-e Z?ah?b, Iran",earthquake,5.2,1.9,0.058,90,reviewed,us,us
+2017-11-13T10:43:54.250Z,33.97,46.1865,10,4.8,mb,,134,1.759,1.13,us,us2000bmk6,2018-02-06T02:45:31.040Z,"42 km NNW of ?l?m, Iran",earthquake,6.4,1.8,0.06,86,reviewed,us,us
+2017-11-13T09:19:28.800Z,34.3482,45.7568,10,4.9,mb,,94,0.627,0.99,us,us2000bmj9,2022-05-03T18:40:01.413Z,"15 km SW of Sarpol-e Z?ah?b, Iran",earthquake,5.5,1.9,0.058,94,reviewed,us,us
+2017-11-13T08:28:51.420Z,34.5686,45.5746,10.53,4.6,mb,,100,0.682,0.55,us,us2000bmiu,2018-02-06T02:45:31.040Z,"29 km WNW of Sarpol-e Z?ah?b, Iran",earthquake,6.8,4.4,0.078,49,reviewed,us,us
+2017-11-13T04:36:12.620Z,34.4089,45.7853,9.83,4.5,mb,,118,0.575,0.72,us,us2000bmhr,2018-02-06T02:45:31.040Z,"9 km SW of Sarpol-e Z?ah?b, Iran",earthquake,4.7,5.2,0.066,68,reviewed,us,us
+2017-11-13T04:27:55.600Z,34.4217,45.7806,10,4.9,mb,,66,0.572,0.68,us,us2000bmhq,2022-08-07T21:07:03.316Z,"8 km WSW of Sarpol-e Z?ah?b, Iran",earthquake,5.7,1.9,0.049,133,reviewed,us,us
+2017-11-13T00:20:51.680Z,34.5466,45.8824,10,4.7,mb,,53,4.059,0.67,us,us2000bmgc,2022-08-07T21:06:14.809Z,"9 km N of Sarpol-e Z?ah?b, Iran",earthquake,7.8,1.9,0.045,148,reviewed,us,us
+2017-11-12T22:30:59.580Z,34.5305,45.7708,10,4.6,mb,,111,4.009,0.53,us,us2000bmfh,2018-02-06T02:45:30.040Z,"11 km NW of Sarpol-e Z?ah?b, Iran",earthquake,8.8,1.9,0.088,38,reviewed,us,us
+2017-11-12T21:33:21.480Z,34.4891,45.8099,10,4.5,mb,,68,4.062,0.86,us,us2000bmeu,2018-02-06T02:45:30.040Z,"5 km WNW of Sarpol-e Z?ah?b, Iran",earthquake,8,1.9,0.083,42,reviewed,us,us
+2017-11-12T18:29:52.130Z,34.9224,45.5873,10,5.3,mb,,65,0.694,0.94,us,us2000bme6,2018-02-06T02:45:30.040Z,"46 km SW of ?alabja, Iraq",earthquake,5.2,1.9,0.15,15,reviewed,us,us
+2017-11-12T18:18:17.180Z,34.9109,45.9592,19,7.3,mww,,33,0.284,1.29,us,us2000bmcg,2024-07-31T22:26:02.515Z,"29 km S of ?alabja, Iraq",earthquake,4.9,1.7,0.044,50,reviewed,us,us
+2017-11-12T17:35:31.450Z,34.3719,45.6871,10,4.6,mb,,93,0.663,1.06,us,us2000bmbn,2018-02-06T02:45:30.040Z,"18 km WSW of Sarpol-e Z?ah?b, Iran",earthquake,5.9,1.7,0.068,64,reviewed,us,us

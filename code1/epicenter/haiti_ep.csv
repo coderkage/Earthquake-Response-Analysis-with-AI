@@ -1,0 +1,44 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2010-01-13T22:21:13.310Z,18.363,-72.581,10,4.9,mb,259,24,,1.04,us,usp000h632,2014-11-07T01:40:27.571Z,"15 km NNW of Jacmel, Haiti",earthquake,,,,114,reviewed,us,us
+2010-01-13T21:26:16.380Z,18.492,-72.495,10,4.9,mb,177,36.8,,0.76,us,usp000h630,2014-11-07T01:40:27.551Z,"6 km SSE of Gressier, Haiti",earthquake,,,,77,reviewed,us,us
+2010-01-13T18:54:16.600Z,18.412,-72.579,10,4.5,mb,82,23.8,,0.86,us,usp000h62y,2014-11-07T01:40:27.536Z,"12 km SSE of Léogâne, Haiti",earthquake,,,,23,reviewed,us,us
+2010-01-13T14:43:44.730Z,18.44,-72.928,10,5.1,mwc,254,23,,0.93,us,usp000h62s,2022-07-16T00:08:00.664Z,"6 km W of Tigwav, Haiti",earthquake,,,,,reviewed,us,gcmt
+2010-01-13T12:41:44.110Z,18.343,-72.854,10,4.6,mb,87,49.9,,0.95,us,usp000h62p,2014-11-07T01:40:27.445Z,Haiti region,earthquake,,,,28,reviewed,us,us
+2010-01-13T12:28:24.730Z,18.407,-72.806,10,4.5,mb,36,49.3,,0.83,us,usp000h62n,2014-11-07T01:40:27.441Z,"4 km WSW of Grangwav, Haiti",earthquake,,,,1,reviewed,us,us
+2010-01-13T07:23:03.780Z,18.381,-72.836,10,4.9,mb,110,42.3,,0.92,us,usp000h629,2014-11-07T01:40:27.380Z,"6 km SSE of Tigwav, Haiti",earthquake,,,,50,reviewed,us,us
+2010-01-13T06:58:25.920Z,18.417,-72.904,10,4.6,mb,56,47.4,,0.96,us,usp000h627,2014-11-07T01:40:27.372Z,"4 km WSW of Tigwav, Haiti",earthquake,,,,8,reviewed,us,us
+2010-01-13T06:48:03.360Z,18.418,-72.871,10,4.5,mb,55,49.2,,0.98,us,usp000h626,2014-11-07T01:40:27.368Z,"1 km SSW of Tigwav, Haiti",earthquake,,,,15,reviewed,us,us
+2010-01-13T06:24:15.940Z,18.373,-72.875,10,4.6,mb,90,24.9,,0.93,us,usp000h623,2014-11-07T01:40:27.355Z,"6 km S of Tigwav, Haiti",earthquake,,,,33,reviewed,us,us
+2010-01-13T05:49:22.680Z,18.4,-72.966,10,4.6,mb,76,49.3,,1.13,us,usp000h622,2014-11-07T01:40:27.267Z,"11 km WSW of Tigwav, Haiti",earthquake,,,,27,reviewed,us,us
+2010-01-13T05:24:02.190Z,18.46,-72.816,10,4.8,mb,119,49.6,,0.92,us,usp000h621,2014-11-07T01:40:27.257Z,"6 km ENE of Tigwav, Haiti",earthquake,,,,50,reviewed,us,us
+2010-01-13T05:18:02.440Z,18.319,-72.887,10,5.2,mwc,253,25.1,,0.92,us,usp000h620,2022-05-02T21:33:33.975Z,"12 km S of Tigwav, Haiti",earthquake,,,,,reviewed,us,gcmt
+2010-01-13T05:02:57.500Z,18.367,-72.903,10,5.8,mwc,413,22.6,,0.99,us,usp000h61z,2022-05-02T22:34:17.055Z,Haiti region,earthquake,,,,,reviewed,us,us
+2010-01-13T04:37:50.890Z,18.465,-72.777,10,4.5,mb,47,48.7,,1.35,us,usp000h61x,2014-11-07T01:40:27.192Z,"4 km N of Grangwav, Haiti",earthquake,,,,13,reviewed,us,us
+2010-01-13T04:29:49.020Z,18.446,-72.941,10,4.5,mb,27,66.1,,1.08,us,usp000h61v,2014-11-07T01:40:27.186Z,"8 km WNW of Tigwav, Haiti",earthquake,,,,5,reviewed,us,us
+2010-01-13T03:31:57.190Z,18.323,-72.871,10,4.7,mb,164,25.1,,0.86,us,usp000h61r,2014-11-07T01:40:27.137Z,"11 km S of Tigwav, Haiti",earthquake,,,,92,reviewed,us,us
+2010-01-13T03:17:11.500Z,18.414,-72.958,10,4.6,mb,117,49.2,,1,us,usp000h61q,2014-11-07T01:40:27.127Z,"9 km W of Tigwav, Haiti",earthquake,,,,64,reviewed,us,us
+2010-01-13T02:43:47.160Z,18.469,-72.962,10,4.7,mb,169,24.6,,0.98,us,usp000h61m,2014-11-07T01:40:27.099Z,"11 km WNW of Tigwav, Haiti",earthquake,,,,90,reviewed,us,us
+2010-01-13T02:26:33.670Z,18.443,-72.828,10,4.7,mb,156,49,,0.94,us,usp000h61k,2014-11-07T01:40:27.086Z,"4 km ENE of Tigwav, Haiti",earthquake,,,,91,reviewed,us,us
+2010-01-13T02:17:56.270Z,18.513,-72.937,10,4.6,mb,142,24.4,,1.11,us,usp000h61h,2014-11-07T01:40:27.068Z,"11 km NW of Tigwav, Haiti",earthquake,,,,82,reviewed,us,us
+2010-01-13T02:11:30.680Z,18.402,-73.037,10,5,mb,229,26.8,,1.16,us,usp000h61g,2014-11-07T01:40:27.049Z,"7 km SE of Miragoâne, Haiti",earthquake,,,,128,reviewed,us,us
+2010-01-13T01:57:34.550Z,18.393,-72.884,10,5.4,mwc,325,22.6,,0.88,us,usp000h61f,2022-05-02T21:33:28.846Z,"4 km SSW of Tigwav, Haiti",earthquake,,,,,reviewed,us,gcmt
+2010-01-13T01:55:16.000Z,18.337,-72.842,10,5.1,mwc,201,25.2,,1.01,us,usp000h61e,2022-05-02T19:49:52.257Z,"10 km SSE of Tigwav, Haiti",earthquake,,,,,reviewed,us,gcmt
+2010-01-13T01:36:31.370Z,18.404,-72.826,10,5.6,mwc,301,26.8,,0.93,us,usp000h61c,2022-05-02T21:33:22.592Z,"5 km SE of Tigwav, Haiti",earthquake,,,,,reviewed,us,gcmt
+2010-01-13T01:32:44.220Z,18.42,-72.861,10,5.6,mwc,305,22.6,,1,us,usp000h61b,2022-05-02T21:33:20.838Z,"1 km SSE of Tigwav, Haiti",earthquake,,,,,reviewed,us,gcmt
+2010-01-13T01:24:31.990Z,18.47,-72.818,10,4.6,mb,81,48.7,,0.99,us,usp000h61a,2014-11-07T01:40:26.929Z,"6 km NE of Tigwav, Haiti",earthquake,,,,37,reviewed,us,us
+2010-01-13T01:16:50.980Z,18.425,-72.814,10,5.1,mb,230,22.6,,1.11,us,usp000h619,2014-11-07T01:40:26.901Z,"4 km W of Grangwav, Haiti",earthquake,,,,129,reviewed,us,us
+2010-01-13T01:05:48.610Z,18.539,-72.649,10,4.5,mb,86,23.5,,1.15,us,usp000h616,2014-11-07T01:40:26.889Z,"3 km NNW of Léogâne, Haiti",earthquake,,,,39,reviewed,us,us
+2010-01-13T01:00:26.360Z,18.455,-73.069,10,4.7,mb,51,80.6,,0.94,us,usp000h615,2014-11-07T01:40:26.884Z,Haiti region,earthquake,,,,31,reviewed,us,us
+2010-01-13T00:59:05.050Z,18.354,-72.807,10,5.2,mwc,191,25.6,,1.03,us,usp000h614,2022-05-02T21:33:19.859Z,"8 km SSW of Grangwav, Haiti",earthquake,,,,,reviewed,us,gcmt
+2010-01-13T00:43:27.280Z,18.482,-72.469,10,5,mb,258,22.7,,0.89,us,usp000h612,2022-07-16T00:06:19.164Z,"8 km SE of Gressier, Haiti",earthquake,,,,123,reviewed,us,us
+2010-01-13T00:23:13.200Z,18.499,-72.792,10,4.5,mb,20,56.1,,0.57,us,usp000h60z,2014-11-07T01:40:26.839Z,"8 km NNW of Grangwav, Haiti",earthquake,,,,3,reviewed,us,us
+2010-01-12T23:47:38.100Z,18.423,-72.861,10,4.5,mb,42,48.9,,0.99,us,usp000h60x,2014-11-07T01:40:26.831Z,"1 km SSE of Tigwav, Haiti",earthquake,,,,4,reviewed,us,us
+2010-01-12T23:35:39.210Z,18.382,-72.868,10,4.6,mb,60,25.3,,1.15,us,usp000h60w,2014-11-07T01:40:26.826Z,"5 km S of Tigwav, Haiti",earthquake,,,,17,reviewed,us,us
+2010-01-12T23:27:36.860Z,18.542,-72.768,10,4.7,mb,81,42.4,,0.96,us,usp000h60v,2014-11-07T01:40:26.819Z,"12 km N of Grangwav, Haiti",earthquake,,,,28,reviewed,us,us
+2010-01-12T23:12:03.990Z,18.402,-72.513,10,5.3,mb,260,22.7,,0.85,us,usp000h60s,2014-11-07T01:40:26.787Z,Haiti region,earthquake,,,,151,reviewed,us,us
+2010-01-12T23:07:03.740Z,18.522,-72.585,10,4.6,mb,30,50.9,,1.12,us,usp000h60r,2014-11-07T01:40:26.784Z,"5 km ENE of Léogâne, Haiti",earthquake,,,,2,reviewed,us,us
+2010-01-12T22:52:51.260Z,18.437,-72.848,10,4.7,mb,26,51.4,,0.96,us,usp000h60q,2014-11-07T01:40:26.781Z,Haiti region,earthquake,,,,2,reviewed,us,us
+2010-01-12T22:12:04.650Z,18.452,-72.513,10,5.7,mb,201,22.7,,0.8,us,usp000h60n,2022-05-02T22:35:09.501Z,Haiti region,earthquake,,,,125,reviewed,us,us
+2010-01-12T22:07:02.040Z,18.463,-72.626,10,5,mb,32,84.1,,1.05,us,usp000h60k,2014-11-07T01:40:26.757Z,"5 km S of Léogâne, Haiti",earthquake,,,,4,reviewed,us,us
+2010-01-12T22:00:41.490Z,18.387,-72.784,10,6,mwc,196,24.1,,0.84,us,usp000h60j,2022-05-02T21:33:18.940Z,"4 km SSW of Grangwav, Haiti",earthquake,,,,,reviewed,us,gcmt
+2010-01-12T21:53:10.060Z,18.443,-72.571,13,7,mwc,500,22.7,,0.97,us,usp000h60h,2023-12-18T17:24:27.697Z,"10 km SE of Léogâne, Haiti",earthquake,,,,,reviewed,us,us
