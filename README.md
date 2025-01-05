@@ -87,7 +87,7 @@ Contains all the datasets and JSONL files for training and testing.
  
 - **Large Datasets:**
   - Due to size limits and copyright issues, we have skipped following datasets to add in the repository. They can be easily accessed from the provided links:
-  - `geonames.csv` file: [https://www.geonames.org/](geonames.org)
+  - `geonames.csv` file: [https://www.geonames.org](https://www.geonames.org)
   - `tweets.csv` file: [https://www.kaggle.com/datasets/swaptr/turkey-earthquake-tweets](https://www.kaggle.com/datasets/swaptr/turkey-earthquake-tweets)
 
 ---
