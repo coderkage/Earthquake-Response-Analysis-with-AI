@@ -162,9 +162,4 @@ These folders contain additional files and scripts used for experiments and back
 
 ---
 
-## License
-
-This project is open-sourced under the MIT License. 
-
----
 
