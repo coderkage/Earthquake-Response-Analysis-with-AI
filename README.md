@@ -14,15 +14,10 @@ Project:
 │   │   city.csv
 │   │   coordinates.csv
 │   │   countries.csv
-│   │   geonames.csv
 │   │   jp.csv
 │   │   jpgpe.csv
 │   │   jpgpe1.csv
 │   │   jptweets.csv
-│   │   mx.csv
-│   │   mxgpe.csv
-│   │   mxtweets.csv
-│   │   tweets.csv
 │   │   world-data-2023.csv
 │   │
 │   ├───test
@@ -89,6 +84,11 @@ Contains all the datasets and JSONL files for training and testing.
 - **Train Data (`train/`):**
   - Tagged datasets (`1xfiltered_tagged_gpe.jsonl` to `5xfiltered_tagged_gpe.jsonl` and `output3.jsonl` to `output3.jsonl`)  backup files created on each step of train data preparation.
   - `output4.jsonl` file: Processed final training data (GPE and DISASTER tagged) for custom-NER.
+ 
+- **Large Datasets:**
+  - Due to size limits and copyright issues, we have skipped following datasets to add in the repository. They can be easily accessed from the provided links:
+  - `geonames.csv` file: [geonames.org](geonames.org)
+  - `tweets.csv` file: [https://www.kaggle.com/datasets/swaptr/turkey-earthquake-tweets](https://www.kaggle.com/datasets/swaptr/turkey-earthquake-tweets)
 
 ---
 
